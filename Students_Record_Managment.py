@@ -152,7 +152,7 @@ while True:
         print()
 
     elif option == 5:
-        print("thank you for using the Studends Record managment system. goodbye!")
+        print("thanks for using the Studends Record managment system. goodbye!")
         break   
     else:
         print("invalid option") 
